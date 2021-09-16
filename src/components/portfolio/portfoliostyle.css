@@ -47,6 +47,7 @@ img {
 .head {
   padding-left: 10px;
   padding-top: 20px;
+  font-weight: bold;
 }
 
 .intro h3 {

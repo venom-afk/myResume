@@ -156,6 +156,8 @@ function portfolio() {
               <a
                 href='https://afternoon-lake-19718.herokuapp.com/.'
                 target='_blank'
+                without
+                rel='noreferrer'
               >
                 DevConnector (Click to view)
               </a>
@@ -165,6 +167,8 @@ function portfolio() {
               <a
                 href='https://github.com/venom-afk/Social-network-for-Developers/tree/master.'
                 target='_blank'
+                without
+                rel='noreferrer'
               >
                 DevConnector Repository (Click to view)
               </a>
@@ -188,7 +192,9 @@ function portfolio() {
             <li>
               Email: <span className='email'>imammar1997@gmail.com</span>
             </li>
-            <li>Contact: +971 50 178 8258</li>
+            <li>
+              Contact: <a href='tel:+971-50-178-8258'>+971 50 178 8258</a>
+            </li>
             <li>Location: Dubai, United Arab Emirates</li>
           </ul>
         </div>
